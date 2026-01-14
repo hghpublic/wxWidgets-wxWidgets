@@ -1,0 +1,17 @@
+= wxWidgets
+
+== wxWidgets
+
+=== wxWidgets for GTK installation
+
+https://docs.wxwidgets.org/stable/plat_gtk_install.html
+
+https://docs.wxwidgets.org/stable/overview_cmake.html
+
+----
+git submodule update --init --recursive
+----
+
+----
+apt --installed list
+----

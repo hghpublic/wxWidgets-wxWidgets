@@ -117,6 +117,16 @@
             "inherits": "osx_base",
             "displayName": "macOS Make",
             "generator": "Unix Makefiles"
+        },
+        {
+            "name": "devcontainer",
+            "description": "",
+            "displayName": "",
+            "inherits": [
+                "common",
+                "with_samples",
+                "with_tests"
+            ]
         }
     ]
 }
